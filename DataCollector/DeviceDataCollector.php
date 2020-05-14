@@ -50,7 +50,7 @@ class DeviceDataCollector extends DataCollector
      *
      * @param Request    $request   A Request instance
      * @param Response   $response  A Response instance
-     * @param \Exception $exception An Exception instance
+     * @param \Throwable $exception An Exception instance
      *
      * @api
      */
